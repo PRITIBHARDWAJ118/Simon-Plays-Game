@@ -49,7 +49,7 @@ Simon-Plays-Game/
 
 ---
 
-## 📸 Preview
+
 
 ## 📸 Preview
 
